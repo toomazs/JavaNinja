@@ -1,4 +1,4 @@
-package TiposDeDados;
+package NivelBasico.TiposDeDados;
 
 
 public class DadosNaoPrimitivos {
@@ -6,7 +6,7 @@ public class DadosNaoPrimitivos {
     // Tudo que for digitado aqui dentro com o comando PSVM vai ser compilado pelo java
 
         /*
-        * Dados nao primitivos: String, Array, Class, enum
+        * Dados nao primitivos: String, NivelBasico.Array, Class, enum
         * Objetivo: Criar um ninja, e atribuir metodos a ele.
         */
 

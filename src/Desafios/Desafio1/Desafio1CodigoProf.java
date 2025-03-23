@@ -1,4 +1,4 @@
-package Desafios;
+package Desafios.Desafio1;
 
 
 public class Desafio1CodigoProf {

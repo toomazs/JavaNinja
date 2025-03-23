@@ -1,4 +1,4 @@
-package Array;
+package NivelBasico.Array;
 
 public class Array {
     public static void main(String[] args) {
@@ -13,7 +13,7 @@ public class Array {
         ninja[4] = "Kakashi Hatake";
 //        System.out.println(ninja[5]);
 
-        // Redeclarar o Array
+        // Redeclarar o NivelBasico.Array
         ninja = new String[7];
         ninja[0] = "Hashirama Senju";
         ninja[1] = "Tobirama Senju";
@@ -24,7 +24,7 @@ public class Array {
         ninja[6] = "Naruto Uzumaki";
 //        System.out.println(ninja[2]);
 
-        // For para fazer um LOOP no Array
+        // For para fazer um LOOP no NivelBasico.Array
         for (int i = 0; i < 7; i++) {
             System.out.println(ninja[i]);
 
